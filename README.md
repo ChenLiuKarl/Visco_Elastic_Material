@@ -1,6 +1,6 @@
-# 1D Visco-Plasticity: Recurrent Neural Operator & Transformer Models
+# 1D Visco-Elasticity: Recurrent Neural Operator & Transformer Models
 
-This project studies a **one-dimensional visco-elastic unit-cell problem**, and implements two neural operator models capable of learning the solution operator for materials with internal variables and memory effects.
+This project studies a **one-dimensional visco-elastic unit-cell problem**, and implements two neural operator models capable of learning the solution operator for material constitutive model at macro level with internal variables and memory effects.
 
 ---
 
