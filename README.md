@@ -12,7 +12,7 @@ We consider the following 1D visco-plastic constitutive problem defined on a uni
 
 ![Equilibrium](https://latex.codecogs.com/png.latex?\frac{\partial%20\sigma(x,t)}{\partial%20x}=0\qquad\text{(Equilibrium)})
 
-![Constitutive relation](https://latex.codecogs.com/png.latex?\sigma(x,t)=E(x)\,\epsilon(x,t)+v(x)\,\frac{\partial%20u(x,t)}{\partial%20t}\qquad\text{(Constitutive%20relation)})
+![Constitutive relation](https://latex.codecogs.com/png.latex?\sigma(x,t)=E(x)\epsilon(x,t)+v(x)\frac{\partial%20u(x,t)}{\partial%20t}\qquad\text{(Constitutive%20relation)})
 
 **Initial conditions:**
 
